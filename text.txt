@@ -1,0 +1,3 @@
+width : 100%;
+use width
+box-sizing : border-box;
